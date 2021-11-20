@@ -28,10 +28,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiro HTML](https://raphaelcaires.github.io/launchbase-desafios-02/tree/main/2-1%20Primeiro%20HTML)
-- [Página de descrição](https://raphaelcaires.github.io/launchbase-desafios-02/)
-- [Página de posts e iframe](https://raphaelcaires.github.io/launchbase-desafios-02/)
-- [Construindo Foodfy](https://raphaelcaires.github.io/launchbase-desafios-02/)
+- [Primeiro HTML](https://github.com/raphaelcaires/launchbase-desafios-02/tree/main/2-1%20Primeiro%20HTML)
+- [Página de descrição](https://github.com/raphaelcaires/launchbase-desafios-02/tree/main/2-2%20P%C3%A1gina%20de%20descri%C3%A7%C3%A3o)
+- [Página de cursos e iframe](https://github.com/raphaelcaires/launchbase-desafios-02/tree/main/2-3%20P%C3%A1gina%20de%20cursos%20e%20iframe)
+- [Construindo Foodfy](https://github.com/raphaelcaires/launchbase-desafios-02)
 
 
 ## :memo: Licença
