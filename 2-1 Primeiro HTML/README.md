@@ -27,7 +27,7 @@
 
 ## :rocket: Sobre o desafio
 
-Criar um arquivo html que contenha um [favicon](favicon.ico) e um header com 3 links: Comunidade, Email e Telefone.
+Criar um arquivo html que contenha um [favicon](https://github.com/raphaelcaires/launchbase-desafios-02/tree/main/2-1%20Primeiro%20HTML/images) e um header com 3 links: Comunidade, Email e Telefone.
 
 ### Favicon
 
