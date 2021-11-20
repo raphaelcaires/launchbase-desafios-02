@@ -21,27 +21,18 @@
 </p>
 
 <p align="center">
-  <a href="#file_cabinet-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :file_cabinet: Materiais
-
-- [Elementos principais do HTML](materiais/html.pdf)
-- [Propriedades importantes no CSS](materiais/css.pdf)
 
 ## :rocket: Desafios
 
-- [Primeiro HTML](desafios/02-1-primeiro-html.md)
-- [Página de descrição](desafios/02-2-pagina-descricao.md)
-- [Página de posts e iframe](desafios/02-3-pagina-cursos-e-iframe.md)
-- [Construindo Foodfy](desafios/02-foodfy.md)
+- [Primeiro HTML](https://raphaelcaires.github.io/launchbase-desafios-02/tree/main/2-1%20Primeiro%20HTML)
+- [Página de descrição](https://raphaelcaires.github.io/launchbase-desafios-02/)
+- [Página de posts e iframe](https://raphaelcaires.github.io/launchbase-desafios-02/)
+- [Construindo Foodfy](https://raphaelcaires.github.io/launchbase-desafios-02/)
 
-## :calendar: Entrega
-
-Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 ## :memo: Licença
 
@@ -49,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com :purple_heart: by [Raphael Caires](https://github.com/raphaelcaires).
